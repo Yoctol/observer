@@ -7,7 +7,7 @@ except IOError:
     long_description = ""
 
 setup(
-    name="observer",
+    name="observe",
     version="0.0.1",
     description="Powerful pandas dataframe describer",
     license="MIT",
